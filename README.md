@@ -3,7 +3,7 @@
 ## 👨‍🎓 About Me
 I'm a second-year student at ABES Engineering College, Ghaziabad, passionate about software development. Currently focusing on:
 
-- 🌱 Learning JavaScript to expand my web development skills
+- 🌱 Learning Flask and Django to expand my web development skills
 - 💻 Proficient in Python, HTML, CSS, and Tailwind CSS
 - 🎵 Amateur songwriter - because code isn't the only language I speak!
 
