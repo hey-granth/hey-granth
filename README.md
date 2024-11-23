@@ -31,6 +31,9 @@ I'm a second-year student at ABES Engineering College, Ghaziabad, passionate abo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-granth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hey-granth&theme=react-dark)
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hey-granth&theme=holi&no-frame=false&no-bg=true&margin-w=4)
 
