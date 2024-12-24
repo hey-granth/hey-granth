@@ -12,6 +12,9 @@ I am currently working on building RESTful APIs and websites using Django and Fl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hey-granth&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-granth&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hey-granth&theme=react-dark)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
