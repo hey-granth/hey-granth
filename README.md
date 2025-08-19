@@ -30,6 +30,7 @@ Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled i
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-granth&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-granth&layout=compact&theme=radical)  
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hey-granth&theme=react-dark)
 
 ### 🔗 Connect  
 - [LinkedIn](https://linkedin.com/in/granth-agarwal)  
