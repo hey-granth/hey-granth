@@ -14,13 +14,13 @@ Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled i
   - 13 models across 5 Django apps, 22 secure API endpoints  
   - Real-time chat with Django Channels + Redis  
   - Facial recognition verification with OpenCV + MediaPipe  
-
+<!--
 - **[AI-Powered Instagram Automation](https://github.com/hey-granth/instagram-automation)** – Autonomous Instagram content pipeline.  
   - Reduced manual content creation by 95%  
   - AI-driven captions + multi-backend image generation  
   - Serverless architecture on Google Cloud (Firebase Functions, Firestore, Google Drive API)  
   - Local CLI tool mirroring production workflow  
-
+-->
 - **[UPI Subscription Tracker](https://github.com/hey-granth/substrack)** – Django REST API platform for subscription management.  
   - Secure UPI mandate verification with 50+ entries per user  
   - Background reminders with Celery (<1s latency)  
