@@ -21,12 +21,6 @@ Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled i
   - AI-driven captions + multi-backend image generation  
   - Serverless architecture on Google Cloud (Firebase Functions, Firestore, Google Drive API)  
   - Local CLI tool mirroring production workflow
-    
-- **[UPI Subscription Tracker](https://github.com/hey-granth/substrack)** – Django REST API platform for subscription management.  
-  - Secure UPI mandate verification with 50+ entries per user  
-  - Background reminders with Celery (<1s latency)  
-  - Google Calendar API integration boosting compliance by 70%  
-  - Optimized PostgreSQL schema for high-scale performance  
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-granth&show_icons=true&theme=radical)  
