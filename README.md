@@ -1,7 +1,7 @@
 # Hey, I'm Granth Agarwal  
 
 ### 👨‍💻 About Me  
-Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled in designing scalable APIs, automation systems, and cloud-based architectures. Passionate about building robust MVPs, leveraging AI for practical use cases, and optimizing backend systems for performance and reliability.  
+Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled in designing scalable APIs, automation systems, and cloud-based architectures. Passionate about building robust MVPs, leveraging AI for practical use cases, and optimizing backend systems for performance and reliability.
 
 ### 🛠 Technical Skills  
 - **Languages:** Python, SQL (Postgres, MySQL), HTML/CSS  
@@ -10,17 +10,18 @@ Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled i
 - **Other:** Redis, Celery, REST APIs, Async communication, Cloud integrations  
 
 ### 📌 Featured Projects  
-- **[Profile Guard](https://github.com/hey-granth/profile_guard)** – Backend for a dating platform prioritizing user safety and trust.  
-  - 13 models across 5 Django apps, 22 secure API endpoints  
-  - Real-time chat with Django Channels + Redis  
-  - Facial recognition verification with OpenCV + MediaPipe  
-<!--
-- **[AI-Powered Instagram Automation](https://github.com/hey-granth/instagram-automation)** – Autonomous Instagram content pipeline.  
+- **[TrustSystem](https://github.com/hey-granth/trustsystem)** – Backend for continuous identity verification and fraud detection, filed for patent.
+  - 12+ models across 4 Django apps, 18+ API endpoints  
+  - Adaptive trust anchors using face + text embeddings with EMA drift tolerance  
+  - Vector storage and similarity search via PostgreSQL + pgvector  
+  - Fraud alert system with severity levels and detailed anomaly logging
+
+- **[AI-Powered Instagram Automation](https://github.com/hey-granth/instasmith)** – Autonomous Instagram content pipeline.  
   - Reduced manual content creation by 95%  
   - AI-driven captions + multi-backend image generation  
   - Serverless architecture on Google Cloud (Firebase Functions, Firestore, Google Drive API)  
-  - Local CLI tool mirroring production workflow  
--->
+  - Local CLI tool mirroring production workflow
+    
 - **[UPI Subscription Tracker](https://github.com/hey-granth/substrack)** – Django REST API platform for subscription management.  
   - Secure UPI mandate verification with 50+ entries per user  
   - Background reminders with Celery (<1s latency)  
