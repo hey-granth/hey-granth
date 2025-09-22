@@ -1,26 +1,49 @@
-# Hey, I'm Granth Agarwal  
+# Granth Agarwal
 
-### 👨‍💻 About Me  
-Backend developer with strong focus on **Django, Flask, and FastAPI**. Skilled in designing scalable APIs, automation systems, and cloud-based architectures. Passionate about building robust MVPs, leveraging AI for practical use cases, and optimizing backend systems for performance and reliability.
+Python backend developer specializing in Django, FastAPI, and scalable API architecture. Experience in workflow automation, fraud detection systems, and AI-driven applications.
 
-### 🛠 Technical Skills  
-- **Languages:** Python, SQL (Postgres, MySQL), HTML/CSS  
-- **Frameworks:** Django, Flask, FastAPI  
-- **Developer Tools:** Git, VS Code, PyCharm, IntelliJ, Postman, Google Cloud Platform  
-- **Other:** Redis, Celery, REST APIs, Async communication, Cloud integrations  
+## Technical Stack
 
-### 📌 Featured Projects  
-- **[TrustSystem](https://github.com/hey-granth/trustsystem)** – Backend for continuous identity verification and fraud detection, filed for patent.
-  - 12+ models across 4 Django apps, 18+ API endpoints  
-  - Adaptive trust anchors using face + text embeddings with EMA drift tolerance  
-  - Vector storage and similarity search via PostgreSQL + pgvector  
-  - Fraud alert system with severity levels and detailed anomaly logging
+**Languages:** Python, SQL (PostgreSQL, MySQL), HTML/CSS  
+**Frameworks:** Django, Django REST Framework, FastAPI, Flask  
+**Cloud & Tools:** Google Cloud Platform, Firebase, Redis, Celery, Git, Make.com  
+**Databases:** PostgreSQL (pgvector), Redis, Firestore  
+**APIs & Integration:** REST APIs, JWT authentication, Google Drive API, social media APIs
 
-- **[AI-Powered Instagram Automation](https://github.com/hey-granth/instasmith)** – Autonomous Instagram content pipeline.  
-  - Reduced manual content creation by 95%  
-  - AI-driven captions + multi-backend image generation  
-  - Serverless architecture on Google Cloud (Firebase Functions, Firestore, Google Drive API)  
-  - Local CLI tool mirroring production workflow
+## Experience
+
+**Python Developer Intern** @ EverythingAboutAI (July 2025 – August 2025)  
+Developed FastAPI workflow automation solutions and no-code pipelines using Make.com. Contributed to product testing and input workflow optimization.
+
+**Core Team Lead** @ Elixir Tech Community (July 2025 – Present)  
+Leading 4,000+ member tech community, organizing technical sessions and managing Discord/WhatsApp engagement.
+
+## Key Projects
+
+### [TrustSystem](https://github.com/hey-granth/trustsystem)
+Continuous identity verification and fraud detection backend with patent application filed.
+- 4 Django apps, 12+ models, 18+ API endpoints
+- PostgreSQL + pgvector for high-dimensional similarity search
+- Face recognition and sentence transformers for anomaly detection
+- Redis integration for performance optimization
+
+### [Meme Trends Tracker](https://github.com/hey-granth/memetrends)
+Scalable API-only backend for multi-platform meme collection and analysis.
+- Django REST Framework with JWT authentication and object-level permissions
+- Redis-backed leaderboard system with Celery task scheduling
+- Time-decay engagement scoring algorithm
+- Optimized PostgreSQL storage with JSON fields and indexing
+<!--
+### [AI-Powered Instagram Automation](https://github.com/hey-granth/instasmith)
+Serverless Instagram content automation pipeline.
+- Firebase Functions, Firestore, and Google Drive API integration
+- Automated content creation, scheduling, and publishing
+- Local Python CLI tool mirroring cloud workflow
+- Multi-API social media management system
+-->
+---
+
+📧 granthcodes@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/granth-agarwal) | 📱 +91 9599443100
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-granth&show_icons=true&theme=radical)  
