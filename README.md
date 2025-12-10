@@ -1,49 +1,42 @@
 # Granth Agarwal
 
-Python backend developer specializing in Django, FastAPI, and scalable API architecture. Experience in workflow automation, fraud detection systems, and AI-driven applications.
+Backend engineer who keeps accidentally building production systems for fun.  
+Curriculum vitae claims I “architect scalable backends.” Reality is I just refuse to let servers bully me.
 
-## Technical Stack
+## What I Actually Do
+Python everywhere. Django when life needs structure. FastAPI when it needs speed. Celery when it needs therapy.  
+PostgreSQL enjoys my company a concerning amount.
 
-**Languages:** Python, SQL (PostgreSQL, MySQL), HTML/CSS  
-**Frameworks:** Django, Django REST Framework, FastAPI, Flask  
-**Cloud & Tools:** Google Cloud Platform, Firebase, Redis, Celery, Git, Make.com  
-**Databases:** PostgreSQL (pgvector), Redis, Firestore  
-**APIs & Integration:** REST APIs, JWT authentication, Google Drive API, social media APIs
+I build:
+- Identity verification systems that behave like they escaped from a research lab.
+- Multi-tenant marketplaces that refuse to fall over.
+- Meme analytics engines that rank internet entropy with scientific sincerity.
+- Automation pipelines that save humans from tasks they were never meant to perform.
 
-## Experience
+## Current Experiments
+- TrustSystem: Face embeddings, persona embeddings, vector search, fraud detection. The whole sci-fi package.  
+- StandardStitch: School-uniform commerce but engineered like a logistics startup’s fever dream.  
+- MemeTrends: Leaderboards for memes because someone had to quantify cultural decay.  
 
-**Python Developer Intern** @ EverythingAboutAI (July 2025 – August 2025)  
-Developed FastAPI workflow automation solutions and no-code pipelines using Make.com. Contributed to product testing and input workflow optimization.
+## Tools I Don’t Fear
+Django, DRF, FastAPI, Celery, Redis, PostGIS, pgvector, RabbitMQ, Supabase, Docker, Linux.  
+If it schedules tasks, stores objects, or panics under load, I’ve probably tamed it.
 
-**Core Team Lead** @ Elixir Tech Community (July 2025 – Present)  
-Leading 4,000+ member tech community, organizing technical sessions and managing Discord/WhatsApp engagement.
+## Mildly Impressive Stats
+- 40+ production-grade REST APIs shipped without crying (much).  
+- 230+ automated tests written out of spite.  
+- A published patent that sounds futuristic enough to raise eyebrows at airports.
 
-## Key Projects
+## What I’m Up To
+Building scalable systems, deleting technical debt I wrote yesterday, and pretending to enjoy frontends until someone else does them.
 
-### [TrustSystem](https://github.com/hey-granth/trustsystem)
-Continuous identity verification and fraud detection backend with patent application filed.
-- 4 Django apps, 12+ models, 18+ API endpoints
-- PostgreSQL + pgvector for high-dimensional similarity search
-- Face recognition and sentence transformers for anomaly detection
-- Redis integration for performance optimization
+## Coordinates
+Portfolio: https://granth.vercel.app  
+Email: granthcodes@gmail.com  
 
-### [Meme Trends Tracker](https://github.com/hey-granth/memetrends)
-Scalable API-only backend for multi-platform meme collection and analysis.
-- Django REST Framework with JWT authentication and object-level permissions
-- Redis-backed leaderboard system with Celery task scheduling
-- Time-decay engagement scoring algorithm
-- Optimized PostgreSQL storage with JSON fields and indexing
-<!--
-### [AI-Powered Instagram Automation](https://github.com/hey-granth/instasmith)
-Serverless Instagram content automation pipeline.
-- Firebase Functions, Firestore, and Google Drive API integration
-- Automated content creation, scheduling, and publishing
-- Local Python CLI tool mirroring cloud workflow
-- Multi-API social media management system
--->
+If any of this looks accidental, that’s because it probably was.
+
 ---
-
-📧 granthcodes@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/granth-agarwal) | 📱 +91 9599443100
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-granth&show_icons=true&theme=radical)  
