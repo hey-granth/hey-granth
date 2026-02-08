@@ -1,50 +1,29 @@
-# Granth Agarwal
+# hey, I'm Granth 👋
 
-Backend engineer who keeps accidentally building production systems for fun.  
-Curriculum vitae claims I “architect scalable backends.” Reality is I just refuse to let servers bully me.
+Backend engineer who builds things that scale. Currently deep in Django, PostgreSQL, and making distributed systems behave.
 
-## What I Actually Do
-Python everywhere. Django when life needs structure. FastAPI when it needs speed. Celery when it needs therapy.  
-PostgreSQL enjoys my company a concerning amount.
+## what I work with
 
-I build:
-- Identity verification systems that behave like they escaped from a research lab.
-- Multi-tenant marketplaces that refuse to fall over.
-- Meme analytics engines that rank internet entropy with scientific sincerity.
-- Automation pipelines that save humans from tasks they were never meant to perform.
+Python • Django • PostgreSQL • Redis • Celery • Docker • FastAPI
 
-## Current Experiments
-- TrustSystem: Face embeddings, persona embeddings, vector search, fraud detection. The whole sci-fi package.  
-- StandardStitch: School-uniform commerce but engineered like a logistics startup’s fever dream.  
-- MemeTrends: Leaderboards for memes because someone had to quantify cultural decay.  
+## stuff I've built
 
-## Tools I Don’t Fear
-Django, DRF, FastAPI, Celery, Redis, PostGIS, pgvector, RabbitMQ, Supabase, Docker, Linux.  
-If it schedules tasks, stores objects, or panics under load, I’ve probably tamed it.
+**[Stockway](https://github.com/hey-granth/stockway)** — full-stack supply chain platform with geo-based warehouse discovery, async order processing, and proper RBAC. PostGIS + Celery doing the heavy lifting.
 
-## Mildly Impressive Stats
-- 40+ production-grade REST APIs shipped without crying (much).  
-- 230+ automated tests written out of spite.  
-- A published patent that sounds futuristic enough to raise eyebrows at airports.
+**[TrustSystem](https://github.com/hey-granth/trustsystem)** — identity verification using facial + behavioral embeddings. vector search via pgvector for fraud detection. published a patent on this one.
 
-## What I’m Up To
-Building scalable systems, deleting technical debt I wrote yesterday, and pretending to enjoy frontends until someone else does them.
+**[MemeTrends](https://github.com/hey-granth/memetrends)** — API backend tracking meme trends across Reddit/Twitter. Redis leaderboards, time-decayed scoring, the works.
 
-## Coordinates
-Portfolio: https://granth.vercel.app  
-Email: granthcodes@gmail.com  
+## currently
 
-If any of this looks accidental, that’s because it probably was.
+- B.Tech CS @ APJ Abdul Kalam Technical University
+- Leading [Elixir Tech Community](https://elixircommunity.in) (5k+ devs)
+- Building backends that don't fall over
+
+## find me
+
+[portfolio](https://granth.tech) • [linkedin](https://linkedin.com/in/granth-agarwal) • [email](mailto:granthcodes@gmail.com)
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-granth&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-granth&layout=compact&theme=radical)  
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hey-granth&theme=react-dark)
-
-### 🔗 Connect  
-- [LinkedIn](https://linkedin.com/in/granth-agarwal)  
-- [GitHub](https://github.com/hey-granth)
-- [Twitter](https://x.com/heygranth)
-- [Email](mailto:granthcodes@gmail.com)  
+*published a patent on identity verification systems. yes, really.*
